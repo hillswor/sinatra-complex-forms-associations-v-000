@@ -1,3 +1,5 @@
+require 'pry'
+
 class OwnersController < ApplicationController
 
   get '/owners' do
